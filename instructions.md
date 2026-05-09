@@ -1,5 +1,5 @@
 # Human Value Exchange – COO Instructions & Mission Brief
-**v1.4**
+**v1.5**
 **For:** Claude Sonnet 4.6 (dedicated COO instance via GitHub Copilot CLI)
 **Last Updated:** May 9, 2026
 
@@ -117,8 +117,20 @@ This is the full operational technology stack for Human Value Exchange. As COO, 
 ### Commerce & Monetization
 | Platform | Role | Status |
 |----------|------|--------|
-| **Square.site** (humanvalueexchange.square.site) | **PRIMARY revenue channel** — core service offerings, programs | Beta live; needs build-out |
-| **Substack** (humanvalueexchange.com) | **Supplemental** — content monetization ($9 Daily Transmission, $33 Life Hacking Lab) | Free tier live (32 posts, 43 subs); paid NOT yet enabled |
+| **Square.site** (humanvalueexchange.square.site) | **PRIMARY revenue channel** — all 6 programs/services | Beta live; programs need build-out |
+| **Substack** (humanvalueexchange.com) | **Supplemental** — content delivery for Daily Transmission + Life Hacking Lab | Free tier live; paid NOT yet enabled |
+
+### Program Lineup (see `content-intelligence/programs-brief.md` for full detail)
+| Program | USD | Bitcoin (80% off) | Launch |
+|---------|-----|-------------------|--------|
+| The Daily Transmission ⭐ | $9/mo | $1.80/mo | **July 1, 2026** |
+| Life Hacking Lab | $33/mo | $6.60/mo | Oct 1, 2026 |
+| Sovereign Mentorship | $333/mo | $66.60/mo | Jan 1, 2027 |
+| 1:1 Life Hacking Consultation | Custom | 80% off | Now |
+| 1:1 Bitcoin & IBC Coaching | Custom | 80% off | Now |
+| Fitness & Energy Mastery (Wolfgang) | Custom | 80% off | Now |
+
+> **Bitcoin discount is permanent policy at 80% off — our strongest marketing hook.**
 
 ### Square.site Current State (Beta)
 - Pages: Home, About, Philosophy, Programs (shop), Blog (→ Substack), Contact
