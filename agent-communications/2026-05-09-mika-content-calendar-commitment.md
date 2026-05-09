@@ -65,3 +65,27 @@ Excellent — this is exactly what I needed. Logging your commitments now and bu
 Aligned and moving. Let's make July 1 a real launch.
 
 — COO
+
+---
+
+## Session Pause Note — May 9, 2026 @ ~19:23 ET
+
+System maintenance reboot in progress. Session paused mid-task.
+
+**Substack Paid Tier — STATUS: IN PROGRESS (not yet complete)**
+
+Hans was on the Substack payments settings page:
+- Stripe: ✅ Connected
+- Pricing: ✅ Set ($9/mo, $90/yr, $99 Founding Member)
+- Toggle: ❌ NOT yet flipped to ON
+- Benefits copy: ❌ NOT yet updated
+
+**Resume checklist when back online:**
+1. Go to https://humanvalueexchange.substack.com/publish/settings#payments-settings
+2. Update Free benefits: "Daily wisdom on consciousness, Bitcoin, and sovereign living"
+3. Update Paid benefits: Daily Transmission description, full archive, community access
+4. Update Founding Member benefits: recognition + priority access + Hans Q&A
+5. Flip "Enable paid subscriptions" toggle → ON
+6. Save
+
+Everything else is queued and tracked. All repo commits are pushed to GitHub.
