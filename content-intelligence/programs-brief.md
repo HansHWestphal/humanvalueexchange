@@ -1,5 +1,21 @@
 # Human Value Exchange – Programs & Services Brief
-**v1.0 | Date: May 9, 2026**
+**v1.1 | Date: May 9, 2026**
+
+---
+
+## Core Company Framework
+
+> **Health · Wealth · Mindset → Manifest Your Reality**
+
+This is the master framework that governs everything HVE offers. All programs map to one or more of these three pillars. You cannot fully manifest your reality without all three in place — this is the philosophical foundation of the entire offer ladder.
+
+| Pillar | Lead | Programs |
+|--------|------|----------|
+| 🧠 **Mindset** | Hans | Daily Transmission, Life Hacking Lab, Sovereign Mentorship, 1:1 Life Hacking Consultation |
+| 💰 **Wealth** | Hans | 1:1 Bitcoin & Infinite Banking Coaching, Sovereign Mentorship |
+| 💪 **Health** | Wolfgang | Fitness & Energy Mastery Coaching (Trainerize) |
+
+> **Master Brand:** All offerings live under **Human Value Exchange** — one brand, three pillars, one mission.
 
 ---
 
@@ -76,12 +92,15 @@
 | | |
 |--|--|
 | **Price** | Custom (inquire) |
-| **Status** | Available Now |
+| **Status** | ✅ Active — Wolfgang has existing clients on Trainerize |
 | **Lead:** | Wolfgang Westphal |
+| **Pillar:** | 💪 Health |
 
-**Description:** Integrated physical fitness programs combining training, MyFitnessPal/Peak Fitness tools, mindfulness, and energy work for peak performance.
+**Description:** Integrated physical fitness and nutrition programs combining Trainerize coaching, MyFitnessPal/Peak Fitness tools, mindfulness, and energy work for peak performance. Currently coaching Hans and existing clients.
 
 **Platform:** Trainerize (delivery) + Square.site (booking/inquiry)
+
+> **Note:** `bitcoincoach.health` domain available at $3.98/yr — strong candidate for a dedicated landing page for this vertical while keeping HVE as master brand.
 
 ---
 
