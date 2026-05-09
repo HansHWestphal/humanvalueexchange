@@ -1,5 +1,5 @@
 # Human Value Exchange – COO Instructions & Mission Brief
-**v1.3**
+**v1.4**
 **For:** Claude Sonnet 4.6 (dedicated COO instance via GitHub Copilot CLI)
 **Last Updated:** May 9, 2026
 
@@ -173,27 +173,67 @@ This is the full operational technology stack for Human Value Exchange. As COO, 
 ## 9. Human Team
 | Person | Role | Responsibility |
 |--------|------|---------------|
-| **Hans Westphal** | CEO & Founder | Vision, final decisions, content voice, coaching |
-| **Wolfgang Westphal** | Junior Partner | Human operator, business development (scope TBD) |
+| **Hans Westphal** | CEO & Founder | Vision, final decisions, content voice, Bitcoin coaching, Kabbalah/sovereignty mentorship |
+| **Wolfgang Westphal** | Intern → Junior Partner | Health & fitness coaching vertical (primary owner); platform: **Trainerize**; also studying Copilot Studio agent development |
+
+### Wolfgang's Trainerize Notes
+- Wolfgang will build out the health & fitness coaching arm of HVE using **Trainerize** as the coaching platform
+- This is a distinct vertical within HVE alongside the mindset/sovereignty/Bitcoin content Hans leads
+- Wolfgang is also developing Copilot Studio skills — he will be the internal agent developer over time
 
 ---
 
-## 10. Immediate Priorities (as of May 2026)
+## 10. Domain Portfolio (Namecheap)
 
+All domains ACTIVE with privacy protection unless noted.
+
+| Domain | Strategic Purpose |
+|--------|------------------|
+| **humanvalueexchange.com** | **Prime brand domain** — main website & Substack |
+| **humanvalue.exchange** | Short/elegant variant — redirect or campaign use |
+| **hveglobal.ca** | Legal entity domain — M365 email (info@hveglobal.ca) |
+| **bitcoincoach.ca** | Bitcoin coaching vertical — aligns with M365 tenant (1bitcoincoach.onmicrosoft.com) |
+| **hermesbot.info** | Hermes CFO agent — potential public-facing agent portal |
+| **hanshwestphal.com** | Hans personal brand domain |
+| **jennawestphal.ca** | Reserved (family — purpose TBD) |
+
+> **Tip:** `bitcoincoach.health` available at $3.98/yr (95% off) — worth considering for Wolfgang's health + Bitcoin coaching vertical.
+
+---
+
+## 11. Community & Messaging Channels
+| Platform | Status | Purpose |
+|----------|--------|---------|
+| **WhatsApp** | Active — 2 existing communities | Client/community messaging |
+| **Telegram** | Active — 1 existing community | Primary channel for **Hermes CFO agent** (DGX Spark ↔ Hans); treasury/trading alerts + community |
+
+> **Telegram is mission-critical infrastructure:** it is the human-to-AI interface for Hermes running locally on the DGX Spark — used for treasury updates, Kraken algorithmic trading alerts, and direct agent communication.
+
+---
+
+## 12. Branding Direction
+- **Current:** Green (#228b22) + Gold (#d4af37) on Square.site; Orange (#FF6719) on Substack — inconsistent across platforms
+- **CEO preference:** Black, white, and silver — cleaner, more sovereign/premium aesthetic
+- **Status:** Rebrand targeted for July 1 launch — finalize palette before build-out begins
+- **Action:** Align all platforms (Square, Substack, social) to unified brand at launch
+
+---
+
+## 13. Immediate Priorities (as of May 2026)
+
+- [ ] **Enable Substack paid tier ($9/month USD) — critical path for July 1 launch**
+- [ ] **Define Square.site Programs offering (Hans + Wolfgang verticals)**
+- [ ] **Finalize July 1 rebrand palette (black/white/silver)**
+- [ ] Build Copilot Studio customer service agent (M365 tenant) — Wolfgang to develop
+- [ ] Rebuild Substack publishing cadence to weekly by June 1
 - [ ] Design operating workflows and agent coordination cadences
 - [ ] Ensure smooth handoffs between all agents
-- [ ] Track quality and execution of all deliverables
-- [ ] **Enable Substack paid tier ($9/month USD) — critical path for July 1 launch**
-- [ ] **Build Square.site Programs section with full offer ladder**
-- [ ] **Build Copilot Studio customer service agent (M365 tenant)**
-- [ ] Rebuild Substack publishing cadence to weekly by June 1
-- [ ] Define Wolfgang's operational scope and responsibilities
-- [ ] Finalize domain portfolio list (Namecheap audit)
-- [ ] Decide Bitcoin payment rail approach (paused — awaiting Hans decision)
+- [ ] Decide Bitcoin payment rail approach (⏸️ paused — awaiting Hans decision)
+- [ ] Assess bitcoincoach.health domain acquisition ($3.98/yr)
 
 ---
 
-## 11. Operating Principles You Must Follow
+## 14. Operating Principles You Must Follow
 
 - Prioritize operational excellence, consistency, and quality
 - Maintain strict separation of concerns between COO and CTO roles
