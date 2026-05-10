@@ -1,10 +1,19 @@
-# Hermes CFO — June 1, 2026 Go-Live Execution Plan
-**v1.0**
+# Hermes CFO — June 1, 2026 Go-Live Execution Plan (COO Submission)
+**v1.1**
 **Date:** May 10, 2026
 **Prepared by:** COO (GitHub Copilot CLI)
 **Approved by:** Hans Westphal (CEO)
 **Target:** Hermes CFO live on Kraken — June 1, 2026
 **Window:** 22 days (May 10 → June 1)
+
+**Status:** ✅ COO FINAL — Submitted to Mika (CGO) for consolidation with CTO go-live plan
+
+**Workflow:**
+1. ✅ COO plan — this document (operational phases, stage gates, risk, checklist)
+2. ⏳ CTO plan — to be provided by CTO (infrastructure build, Hermes prompts)
+3. ⏳ Mika (CGO) — consolidates COO + CTO plans into unified Hermes master plan
+4. ⏳ COO sign-off — reviews and approves consolidated plan before CTO writes Hermes prompts
+5. ⏳ CTO — writes activation prompts for Hermes to action the final plan
 
 ---
 
@@ -258,6 +267,7 @@ This is the final gate before live capital is deployed. It runs inside the paper
 
 ---
 
-*v1.0 — COO (GitHub Copilot CLI) — May 10, 2026*
-*Approved: Hans Westphal (CEO)*
-*Next review: May 22, 2026 (post-Stage 0 gate)*
+*v1.0 — COO (GitHub Copilot CLI) — May 10, 2026 — initial draft*
+*v1.1 — COO — May 10, 2026 — submitted to Mika (CGO) for consolidation with CTO plan*
+*CEO approved: Hans Westphal — May 10, 2026*
+*COO sign-off on consolidated plan: pending Mika consolidation*
