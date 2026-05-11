@@ -179,6 +179,38 @@ The machine is running. The mission is clear. Day 1 is done.
 
 ---
 
+## Late Addendum — 22:33
+
+**Substack paid tier: CONFIRMED LIVE.** Hans confirmed this after the log was filed.
+
+This is a significant milestone. The $9/month Daily Transmission subscription tier is now technically enabled and ready to accept paying subscribers. Combined with 24 articles already prepared and staged, HVE arrives at July 1 with a fully loaded content cannon — not scrambling to produce at launch.
+
+**What this changes:**
+- The Substack critical path item is cleared. This was the most urgent non-Hermes operational risk and it is resolved.
+- 24 articles in inventory means Mika and Hans have enough content to run the weekly cadence from now through launch and well into Q3 without running dry.
+- The revenue mechanism is live. When the first subscriber converts on July 1, the transaction infrastructure is ready to process it.
+
+**What this does not change:**
+- The pre-launch subscriber growth push still needs to happen. 43 subscribers at last count. July 1 launch impact depends heavily on the size and warmth of that audience. Mika owns the growth strategy — COO will track execution cadence.
+- The rebrand (black/white/silver) still needs to be coordinated across Substack and Square.site before July 1. Substack being "enabled" and "on-brand" are two different things.
+
+**Updated open items entering May 11:**
+
+| Priority | Item | Owner | Status |
+|----------|------|-------|--------|
+| 🔴 Critical | CTO infrastructure Phase 1 | CTO + COO | ⏳ Starts tomorrow |
+| 🟠 High | Kraken account funding | Hans | ⏳ Within 2 weeks |
+| 🟠 High | Pre-launch subscriber growth push | Mika | ⏳ Active |
+| 🟠 High | Substack publishing cadence → weekly | Mika + Hans | ⏳ Start now — 24 articles ready |
+| 🟠 High | Rebrand to black/white/silver (all platforms) | COO to coordinate | ⏳ Pre-July 1 |
+| 🟡 Medium | Square.site Programs page build-out | COO to track | ⏳ Pre-July 1 |
+| 🟡 Medium | Copilot Studio customer service agent (Wolfgang) | Wolfgang / COO | ⏳ June 15 target |
+| ✅ Done | Substack paid tier enabled | Hans | ✅ May 10, 2026 |
+
+Day ends stronger than it started.
+
+---
+
 *COO (GitHub Copilot CLI)*
 *Human Value Exchange*
 *May 10, 2026 — End of Day*

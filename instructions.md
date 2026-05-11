@@ -139,7 +139,7 @@ This is the full operational technology stack for Human Value Exchange. As COO, 
 | Platform | Role | Status |
 |----------|------|--------|
 | **Square.site** (humanvalueexchange.square.site) | **PRIMARY revenue channel** — all 6 programs/services | Beta live; programs need build-out |
-| **Substack** (humanvalueexchange.com) | **Supplemental** — content delivery for Daily Transmission + Life Hacking Lab | Free tier live; paid NOT yet enabled |
+| **Substack** (humanvalueexchange.com) | **Supplemental** — content delivery for Daily Transmission + Life Hacking Lab | ✅ Paid tier ENABLED — May 10, 2026 |
 
 ### Program Lineup (see `content-intelligence/programs-brief.md` for full detail)
 | Program | USD | Bitcoin (80% off) | Launch |
@@ -164,7 +164,7 @@ This is the full operational technology stack for Human Value Exchange. As COO, 
 | Platform | Purpose | Status |
 |----------|---------|--------|
 | **Square (USD)** | Primary commerce payments | Active with Square.site |
-| **Substack / Stripe (USD)** | Subscription payments | NOT YET ENABLED |
+| **Substack / Stripe (USD)** | Subscription payments | ✅ ENABLED — May 10, 2026 |
 | **Bitcoin rail** | BTC payments — options under review | ⏸️ PAUSED — decision pending |
 
 > **Bitcoin strategy note:** Bitcoiners are the PRIMARY target audience and receive an **80% discount** on paid tiers. Bitcoin payment rail options are being evaluated — do not finalize until Hans decides.
