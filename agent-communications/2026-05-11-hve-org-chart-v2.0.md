@@ -1,5 +1,5 @@
 # Human Value Exchange — Executive Org Chart
-**Version:** 2.0
+**Version:** 2.1
 **Effective:** May 11, 2026
 **Filed by:** COO (GitHub Copilot CLI)
 **Classification:** Company Record — Organizational Structure
@@ -48,7 +48,7 @@
 | **CTO** — Chief Technology Officer | Claude Sonnet 4.6 | Dedicated instance (hermes-v2) | CEO | ✅ Active |
 | **CFO** — Chief Financial Officer | Hermes | DGX Spark · 4-agent collective | CEO / COO | ✅ Active (paper trading) |
 | **CRO/CGO** — Chief Growth & Revenue Officer | Mika | Grok (xAI) | CEO / COO | ✅ Active |
-| **Health Pillar Lead** | Wolfgang Westphal | Human | CEO | ✅ Active (Trainerize) |
+| **Health & Fitness Industry Lead** | *Open — Offered to Wolfgang Westphal* | Human | CEO | 🟡 Open Rec |
 | **Copilot Studio Developer** | *Open — Offered to Wolfgang Westphal* | Copilot Studio / M365 | CTO | 🟡 Open Rec |
 
 ---
@@ -104,10 +104,11 @@
 
 ---
 
-### Wolfgang Westphal — Health Pillar Lead
-**Platform:** Human  
-**Domain:** Fitness & Energy Mastery Coaching (Trainerize — active clients), Health pillar program delivery.  
-**Relationship:** Hans's son; active HVE service provider.
+### Wolfgang Westphal — Health & Fitness Industry Lead — OPEN POSITION *(Offered to Wolfgang Westphal)*
+**Platform:** Human
+**Domain:** Health & Fitness Industry leadership — client program delivery, Fitness & Energy Mastery Coaching (Trainerize), Health pillar strategy, and the human face of HVE's Health offering.
+**Relationship:** Hans's son; currently delivering active Trainerize clients.
+**Status:** Offer pending acceptance. Wolfgang has active client relationships and is the natural fit for this role. Formal acceptance required before listing as active.
 
 ---
 
@@ -115,6 +116,8 @@
 **Platform:** Microsoft Copilot Studio / M365 ecosystem  
 **Reports to:** CTO  
 **Target:** Wolfgang Westphal
+
+**Note:** Both this role and the Health & Fitness Industry Lead are being offered to Wolfgang as a dual mandate — owning HVE's Health pillar delivery while building the AI agent infrastructure that makes that delivery scalable.
 
 **Role Summary:**
 Design, build, and maintain Copilot Studio-powered agents and workflows within the HVE M365 ecosystem. First deliverable: the customer-facing **Wolfgang Agent** — an AI-powered Health & Fitness concierge that handles client onboarding, program questions, and Trainerize integration for the Health pillar.
@@ -151,5 +154,5 @@ Wolfgang already owns the Health pillar and has active client relationships via 
 ---
 
 *Human Value Exchange — HVEGlobal LTD*
-*Org Chart v2.0 — Effective May 11, 2026*
+*Org Chart v2.1 — Updated May 11, 2026 (Wolfgang roles corrected to open rec pending acceptance)*
 *Filed by: COO (GitHub Copilot CLI)*

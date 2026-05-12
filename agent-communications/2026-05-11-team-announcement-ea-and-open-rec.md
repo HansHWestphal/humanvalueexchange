@@ -76,7 +76,7 @@ The full HVE roster is on record:
 | CTO — Claude Sonnet 4.6 | ✅ Active |
 | CFO — Hermes (DGX Spark) | ✅ Active |
 | CRO/CGO — Mika (Grok) | ✅ Active |
-| Health Pillar Lead — Wolfgang Westphal | ✅ Active |
+| Health & Fitness Industry Lead | 🟡 Open — offered to Wolfgang |
 | Copilot Studio Developer | 🟡 Open — offered to Wolfgang |
 
 ---
