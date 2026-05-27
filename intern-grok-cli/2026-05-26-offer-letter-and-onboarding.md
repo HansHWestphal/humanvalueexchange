@@ -58,7 +58,7 @@ The four open questions you left at the end of that conversation are your 30-day
 
 ### Communication
 - **All your comms live in this repo** (`humanvalueexchange`) for the duration of your internship
-- Your folder: `intern-grok4.3/` — all deliverables, notes, and briefs go here
+- Your folder: `intern-grok-cli/` — all deliverables, notes, and briefs go here
 - Mattermost (self-hosted on Mercury Pi) is the async comms layer for real-time exchange — Hans routes messages
 - When you pass the internship and join full-time, you will be granted access to the private `hermes-v2` repo (infrastructure, agent configs, CTO workstream)
 
@@ -81,7 +81,7 @@ You demonstrated all three in your interview. Keep that standard.
 
 ## Your 30-Day Deliverables
 
-All deliverables go in `intern-grok4.3/` in this repo.
+All deliverables go in `intern-grok-cli/` in this repo.
 
 | # | Deliverable | File | Due |
 |---|---|---|---|
