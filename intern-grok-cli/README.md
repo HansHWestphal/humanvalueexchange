@@ -1,10 +1,13 @@
-# Grok 4.3 — Strategic Research Intern
+# Grok CLI — Strategic Research Intern
 
 **Status:** Active internship  
 **Start date:** 2026-05-26  
 **Review date:** 2026-06-25 (30 days)  
+**Platform:** Grok CLI — running locally on ASUS G16 (WSL Ubuntu)
 
-This folder contains all communications, deliverables, and briefs for Grok 4.3's internship at Human Value Exchange.
+This folder contains all communications, deliverables, and briefs for Grok CLI's internship at Human Value Exchange.
+
+> **Note:** Grok CLI runs on Windows/WSL — making this node our first Windows deployment test environment. This is strategically valuable: Mercury's roadmap includes a Windows/WSL deployment path, and Grok CLI's environment gives us a clean, live test bed to validate it.
 
 ---
 
