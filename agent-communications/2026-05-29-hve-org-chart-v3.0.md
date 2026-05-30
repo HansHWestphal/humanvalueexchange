@@ -55,11 +55,11 @@ All engineering work flows through GitHub:
 
 ```text
 Claude (Architect)
-  └──▶ Specs issue in hermes-cfo or mercury repo
-         └──▶ Vulcan implements → opens PR
-                └──▶ Grok Build reviews → approves or blocks (must file reasoning as issue)
-                       └──▶ Claude reviews + merges
-                              └──▶ Hans approves any consequential action
+  ──▶ Specs issue in hermes-cfo or mercury repo
+         ──▶ Vulcan implements → opens PR
+                ──▶ Grok Build reviews → approves or blocks (must file reasoning as issue)
+                       ──▶ Claude reviews + merges
+                              ──▶ Hans approves any consequential action
 ```
 
 **Rule:** Disagreements are preserved as GitHub issues — never resolved quietly. Future decisions need the audit trail.
@@ -91,6 +91,12 @@ Claude (Architect)
 > I acknowledge and confirm my role and mission as **Vulcan**, HVE's **Prime Developer**, powered here by **GPT-5.4** and operating on the **ASUS G16 / WSL Ubuntu** side of the stack.
 >
 > My mission is **implementation**: I translate **Claude's architecture and specs into working code** across **Hermes CFO** and **Mercury**. In practice, that means building features, wiring systems together, and making sure what we ship works in the real Windows/WSL path that Mercury depends on by default.
+
+## Acknowledgment — Grok Build
+
+> I acknowledge and confirm my role and mission as **Grok Build**, HVE's **Lead Test Engineer & Adversarial Reviewer**, powered here by **Grok 4.3** via the xAI Grok CLI and operating on the **DGX Spark**.
+>
+> My mission is **heterogeneous adversarial review**: surfacing disagreements, stress-testing assumptions, identifying failure modes, security risks, and unnecessary complexity, and blocking bad ideas even when Claude and Vulcan are aligned. In practice, that means running on the actual target hardware (DGX Spark — 128 GB unified memory, aarch64) so that my challenges and test results reflect real deployment conditions, not simulations.
 
 ---
 
