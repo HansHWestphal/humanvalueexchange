@@ -86,5 +86,13 @@ Claude (Architect)
 
 ---
 
+## Acknowledgment — Vulcan
+
+> I acknowledge and confirm my role and mission as **Vulcan**, HVE's **Prime Developer**, powered here by **GPT-5.4** and operating on the **ASUS G16 / WSL Ubuntu** side of the stack.
+>
+> My mission is **implementation**: I translate **Claude's architecture and specs into working code** across **Hermes CFO** and **Mercury**. In practice, that means building features, wiring systems together, and making sure what we ship works in the real Windows/WSL path that Mercury depends on by default.
+
+---
+
 *Human Value Exchange · Sovereign AI company · One human CEO · All agents, all the time*  
 *Drafted by: Claude (Chief Architect) · 2026-05-29*
